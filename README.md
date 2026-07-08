@@ -64,4 +64,4 @@ I prefer building things end-to-end rather than isolated demos.
 
 ---
 
-_Always learning. Always improving._
+_Always learning. Always improving_
